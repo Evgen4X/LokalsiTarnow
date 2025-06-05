@@ -64,4 +64,17 @@
 		<PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.11" />
 	</ItemGroup>
 
+	<ItemGroup>
+<<<<<<< HEAD
+	  <MauiXaml Update="Controls\menuBar.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Controls\NewContent1.xaml">
+=======
+	  <MauiXaml Update="Login.xaml">
+>>>>>>> 4ce9b621e584c6ca6e05d87029157da3d44f2955
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
