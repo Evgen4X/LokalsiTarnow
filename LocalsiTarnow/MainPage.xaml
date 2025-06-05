@@ -3,5 +3,5 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LocalsiTarnow.MainPage">
 
-	        <Label Text="dyasdupa"></Label>
+	        <Label Text="sranie w banie"></Label>
 </ContentPage>
