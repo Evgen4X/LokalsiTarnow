@@ -15,6 +15,8 @@ namespace LocalsiTarnow
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            builder.Services.AddTransient<MainPage>();
+
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
